@@ -25,8 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu0307cloud&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0307cloud&layout=compact&theme=tokyonight)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimanshuDevOps2026&show_icons=true&theme=tokyonight)
 
 ---
 
